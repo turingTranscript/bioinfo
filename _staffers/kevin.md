@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Balan Ramesh
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: balan.ramesh@mahindrauniversity.edu.in
+website: turingtranscript.github.io
+photo: balan.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: on Wednesdays
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+<!-- [Schedule an appointment](#){: .btn .btn-outline } -->
