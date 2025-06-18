@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Home
+title: Staff
 nav_order: 1
 description: A feed containing all of the class announcements.
 ---
 
-# Bioinformatics and Computational Biology
+# Staff
 
 ## Instructors
 
@@ -24,8 +24,3 @@ description: A feed containing all of the class announcements.
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %}
