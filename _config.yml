@@ -27,6 +27,11 @@ color_scheme: mahindra
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+nav_links:
+  Links:
+    Google Classroom:
+      - 'https://classroom.google.com/'
+
 # aux_links:
 #   Kevin Lin:
 #     - 'https://kevinl.info'
