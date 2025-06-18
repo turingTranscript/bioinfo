@@ -1,18 +1,23 @@
-// Mahindra red and supporting color palette
-$body-background-color: #ffffff;
-$sidebar-color: #e30613; // Mahindra red
-$sidebar-active-color: #ba0c10; // darker shade for active
-$sidebar-hover-color: #f44336; // hover variation
+// Softer Mahindra-inspired color scheme for Just the Docs
 
+$body-background-color: #ffffff;
+
+// Sidebar: use light gray background for readability
+$sidebar-color: #f4f4f4;  // Soft neutral background
+$sidebar-border-color: #e0e0e0;
+$nav-list-text-color: #333333;
+$nav-list-hover-color: #e30613; // Brand red for hover text
+$nav-list-active-color: #ba0c10; // Slightly darker red for active text
+
+// Accent colors: use Mahindra Red
 $accent-color: #e30613;
 $accent-hover-color: #ba0c10;
 
-$border-color: #ddd;
-$search-background-color: #f9f9f9;
+// Text and link colors
+$body-text-color: #111111;
 $link-color: #e30613;
 $link-color-hover: #ba0c10;
 
-$body-text-color: #111;
-$nav-list-text-color: #fff;
-$nav-list-hover-color: #fff;
-$nav-list-active-color: #fff;
+// Search and border colors
+$search-background-color: #f9f9f9;
+$border-color: #dddddd;
